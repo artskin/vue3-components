@@ -1,0 +1,20 @@
+{
+  "name": "vue3-components",
+  "version": "1.0.0",
+  "description": "vue3组件demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artskin/vue3-components.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artskin/vue3-components/issues"
+  },
+  "homepage": "https://github.com/artskin/vue3-components#readme"
+}
